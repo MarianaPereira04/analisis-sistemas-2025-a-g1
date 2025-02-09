@@ -1,6 +1,6 @@
 # ANÁLISIS DE SISTEMAS
 
-[!NOTE]
+>.[!NOTE].
 Semestre: 2025-A
 
 ## Horario
